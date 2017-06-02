@@ -15,7 +15,7 @@
 				<h3>Register Now</h3>
 				<p>Welcome, please enter the following details to continue.</p>
 				<p>If you have previously registered with us, <a href="#">click here</a></p>
-				 <form>
+				 <form action="/register" method="POST">
 					<ul>
 						<li class="text-info">First Name: </li>
 						<li><input type="text" value=""></li>

@@ -13,7 +13,7 @@
             <div class="container">
                 <h3>Catch us</h3>
                 <div class="contact-content">
-                    <form>
+                    <form action="/contact" method="post">
                         <input type="text" class="textbox" value=" Your Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Your Name';}"><br>
                         <input type="text" class="textbox" value="Your E-Mail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Your E-Mail';}"><br>
                             <div class="clear"> </div>
@@ -21,7 +21,7 @@
                             <textarea value="Message:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Your Message ';}">Your Message</textarea><br>
                         </div>
                        <div class="submit">
-                            <input class="btn btn-default cont-btn" type="submit" value="SEND " />
+                            <input class="btn btn-default cont-btn" type="submit" value="SEND" />
                       </div>
                     </form>
                     <div class="map">

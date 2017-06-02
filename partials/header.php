@@ -5,10 +5,10 @@
                 <a href="/">Foot-Mint</a>
             </div>
             <div class="login-bars">
-                <a class="btn btn-default log-bar" href="register.php" role="button">Sign up</a>
-                <a class="btn btn-default log-bar" href="signup.php" role="button">Login</a>
+                <a class="btn btn-default log-bar" href="/register" role="button">Sign up</a>
+                <a class="btn btn-default log-bar" href="/login" role="button">Login</a>
                 <div class="cart box_1">
-                    <a href="checkout.php">
+                    <a href="/checkout">
                     <h3>
                         <div class="total">
                           <span class="simpleCart_total">
@@ -41,13 +41,13 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Shop<b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="products.php">Shoes</a></li>
-                                <li><a href="products.php">Tees</a></li>
-                                <li><a href="products.php">Tops</a></li>
+                                <li><a href="/products">Shoes</a></li>
+                                <li><a href="/products">Tees</a></li>
+                                <li><a href="/products">Tops</a></li>
                                 <li class="divider"></li>
-                                <li><a href="products.php">Tracks</a></li>
+                                <li><a href="/products">Tracks</a></li>
                                 <li class="divider"></li>
-                                <li><a href="products.php">Gear</a></li>
+                                <li><a href="/products">Gear</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -56,13 +56,13 @@
                                 <div class="row">
                                     <div class="col-sm-4 menu-img-pad">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="products.php">Joggers</a></li>
-                                            <li><a href="products.php">Foot Ball</a></li>
-                                            <li><a href="products.php">Cricket</a></li>
+                                            <li><a href="/products">Joggers</a></li>
+                                            <li><a href="/products">Foot Ball</a></li>
+                                            <li><a href="/products">Cricket</a></li>
                                             <li class="divider"></li>
-                                            <li><a href="products.php">Tennis</a></li>
+                                            <li><a href="/products">Tennis</a></li>
                                             <li class="divider"></li>
-                                            <li><a href="products.php">Casual</a></li>
+                                            <li><a href="/products">Casual</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-4 menu-img-pad">
@@ -84,13 +84,13 @@
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="products.php">Tops</a></li>
-                                            <li><a href="products.php">Bottoms</a></li>
-                                            <li><a href="products.php">Yoga Pants</a></li>
+                                            <li><a href="/products">Tops</a></li>
+                                            <li><a href="/products">Bottoms</a></li>
+                                            <li><a href="/products">Yoga Pants</a></li>
                                             <li class="divider"></li>
-                                            <li><a href="products.php">Sports</a></li>
+                                            <li><a href="/products">Sports</a></li>
                                             <li class="divider"></li>
-                                            <li><a href="products.php">Gym</a></li>
+                                            <li><a href="/products">Gym</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-6">
@@ -104,16 +104,16 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">kids<b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="products.php">Tees</a></li>
-                                <li><a href="products.php">Shorts</a></li>
-                                <li><a href="products.php">Gear</a></li>
+                                <li><a href="/products">Tees</a></li>
+                                <li><a href="/products">Shorts</a></li>
+                                <li><a href="/products">Gear</a></li>
                                 <li class="divider"></li>
-                                <li><a href="products.php">Watches</a></li>
+                                <li><a href="/products">Watches</a></li>
                                 <li class="divider"></li>
-                                <li><a href="products.php">Shoes</a></li>
+                                <li><a href="/products">Shoes</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.php">Catch</a></li>
+                        <li><a href="/contact">Catch</a></li>
                         <div class="clearfix"></div>
                     </ul>
                     <div class="clearfix"></div>

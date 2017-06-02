@@ -1,9 +1,9 @@
 <div class="sub-news">
     <div class="container">
-        <form>
+        <form action="/">
             <h3>NewsLetter</h3>
         <input type="text" class="sub-email" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
-        <a class="btn btn-default subs-btn" href="#" role="button">SUBSCRIBE</a>
+        <a class="btn btn-default subs-btn" href="/" role="button">SUBSCRIBE</a>
         </form>
     </div>
 </div>
